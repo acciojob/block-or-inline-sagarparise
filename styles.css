@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+ /* Style for block elements */
+        .block {
+            display: block;
+            background-color: lightblue;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        /* Style for inline elements */
+        .inline {
+            display: inline;
+            background-color: lightgreen;
+            padding: 5px;
+            margin: 2px;
+        }
